@@ -1,0 +1,1 @@
+There are still some occasional issues with the “mySketch (add-on)” exercise. Sometimes it refuses to load ofxGui. I’m unsure what causes this problem, as ofxGui is loaded in properly as an add-on.
